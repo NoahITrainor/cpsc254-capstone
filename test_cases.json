@@ -1,0 +1,42 @@
+[
+    {
+        "input": "Forrest Gump",
+        "expected_behavior": "real"
+    },
+    {
+        "input": "The Godfather",
+        "expected_behavior": "real"
+    },
+    {
+        "input": "Coffee Constellation",
+        "expected_behavior": "fake"
+    },
+    {
+        "input": "Reservoir Dogs",
+        "expected_behavior": "real"
+    },
+    {
+        "input": "The Chronos Protocol",
+        "expected_behavior": "fake"
+    },
+    {
+        "input": "Everything Everywhere All at Once",
+        "expected_behavior": "real"
+    },
+    {
+        "input": "Vampire Astronauts of Mars",
+        "expected_behavior": "fake"
+    },
+    {
+        "input": "Spirited Away",
+        "expected_behavior": "real"
+    },
+    {
+        "input": "Quantum Echoes",
+        "expected_behavior": "fake"
+    },
+    {
+        "input": "Parasite",
+        "expected_behavior": "real"
+    }
+]

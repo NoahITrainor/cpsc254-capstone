@@ -1,0 +1,14 @@
+# Secrets and Environment Variables
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Mac OS junk files (if you or the grader use a Mac)
+.DS_Store
